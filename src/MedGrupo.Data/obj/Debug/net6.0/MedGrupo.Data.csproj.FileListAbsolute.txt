@@ -1,0 +1,34 @@
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Data.deps.json
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Data.dll
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Data.pdb
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Business.dll
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Business.pdb
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.csproj.AssemblyReference.cache
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.AssemblyInfoInputs.cache
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.AssemblyInfo.cs
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.csproj.CoreCompileInputs.cache
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.csproj.CopyComplete
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.dll
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\refint\MedGrupo.Data.dll
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.pdb
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\ref\MedGrupo.Data.dll
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Data.runtimeconfig.json
+C:\Projetos - .NET\API\WebAPI\Projects\WebAPIMedGrupo\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.genruntimeconfig.cache
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Data.deps.json
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Data.runtimeconfig.json
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Data.dll
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Data.pdb
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Business.dll
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\bin\Debug\net6.0\MedGrupo.Business.pdb
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.csproj.AssemblyReference.cache
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.AssemblyInfoInputs.cache
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.AssemblyInfo.cs
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.csproj.CoreCompileInputs.cache
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.csproj.CopyComplete
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.dll
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\refint\MedGrupo.Data.dll
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.pdb
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\MedGrupo.Data.genruntimeconfig.cache
+C:\Users\Enzo\Desktop\Daleee\src\MedGrupo.Data\obj\Debug\net6.0\ref\MedGrupo.Data.dll
